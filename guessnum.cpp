@@ -41,11 +41,12 @@ int main() {
         
         if(chanceLeft == 0 )
         {
-            cout<< "\n Sorry your chance has been finished to fuess the random number\n"<<endl;
+            cout<< "\n Sorry your chance has been finished to guess the random number\n"<<endl;
             cout<< " The random Number was : "<< randNumber <<endl;
             cout<< " Thanks for playing.";
         }
     }
     cout<<"\n ";
     return 0;
+
     }
